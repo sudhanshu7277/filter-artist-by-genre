@@ -2,7 +2,7 @@
 
 This project was generated and built with Reacts
 
-## Note : Make sure that npm is installed on your machine. If not, please use the below cmd
+## Note : Make sure that npm is installed on your machine.
 
 
 
