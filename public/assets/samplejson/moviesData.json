@@ -1,0 +1,2839 @@
+{
+    "feed":{
+       "title":"Top Paid iPhone Apps",
+       "id":"https://rss.itunes.apple.com/api/v1/ca/ios-apps/top-paid/all/100/non-explicit.json",
+       "author":{
+          "name":"iTunes Store",
+          "uri":"http://wwww.apple.com/ca/itunes/"
+       },
+       "links":[
+          {
+             "self":"https://rss.itunes.apple.com/api/v1/ca/ios-apps/top-paid/all/100/non-explicit.json"
+          },
+          {
+             "alternate":"https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?genreId=36\u0026popId=30"
+          }
+       ],
+       "copyright":"Copyright © 2018 Apple Inc. All rights reserved.",
+       "country":"ca",
+       "icon":"http://itunes.apple.com/favicon.ico",
+       "updated":"2019-06-26T01:25:03.000-07:00",
+       "results":[
+          {
+             "artistName":"Mojang",
+             "id":"479516143",
+             "releaseDate":"2011-11-17",
+             "name":"Minecraft",
+             "kind":"iosSoftware",
+             "copyright":"© Mojang AB",
+             "artistId":"479516146",
+             "artistUrl":"https://apps.apple.com/ca/developer/mojang/id479516146",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/10/29/2f/10292fd0-d87a-6856-7523-f67fa8051df7/AppIcon-0-1x_U007emarketing-0-85-220-9.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                },
+                {
+                   "genreId":"7002",
+                   "name":"Adventure",
+                   "url":"https://itunes.apple.com/ca/genre/id7002"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/minecraft/id479516143"
+          },
+          {
+             "artistName":"Ndemic Creations",
+             "id":"525818839",
+             "releaseDate":"2012-05-26",
+             "name":"Plague Inc.",
+             "kind":"iosSoftware",
+             "copyright":"© 2011, Ndemic Creations LTD",
+             "artistId":"525818842",
+             "artistUrl":"https://apps.apple.com/ca/developer/ndemic-creations/id525818842",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/af/38/42/af38421b-d10d-39e5-10cf-11ac38261ce0/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/plague-inc/id525818839"
+          },
+          {
+             "artistName":"Warner Bros.",
+             "id":"623592465",
+             "releaseDate":"2013-05-02",
+             "name":"Heads Up!",
+             "kind":"iosSoftware",
+             "copyright":"© 2013 Telepictures Productions Inc.",
+             "artistId":"298372283",
+             "artistUrl":"https://apps.apple.com/ca/developer/warner-bros/id298372283",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/e0/04/ce/e004cedb-07dc-090b-72ff-133c81c0ee46/AppIcon-0-1x_U007emarketing-0-85-220-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7019",
+                   "name":"Word",
+                   "url":"https://itunes.apple.com/ca/genre/id7019"
+                },
+                {
+                   "genreId":"7005",
+                   "name":"Card",
+                   "url":"https://itunes.apple.com/ca/genre/id7005"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/heads-up/id623592465"
+          },
+          {
+             "artistName":"RobTop Games AB",
+             "id":"625334537",
+             "releaseDate":"2013-08-13",
+             "name":"Geometry Dash",
+             "kind":"iosSoftware",
+             "copyright":"© 2015 RobTop Games AB",
+             "artistId":"414027834",
+             "artistUrl":"https://apps.apple.com/ca/developer/robtop-games-ab/id414027834",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/b6/5d/7b/b65d7be5-e14a-433f-bb53-8cc2407e6199/AppIcon-1x_U007emarketing-85-220-9.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7003",
+                   "name":"Casual",
+                   "url":"https://itunes.apple.com/ca/genre/id7003"
+                },
+                {
+                   "genreId":"7011",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/ca/genre/id7011"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/geometry-dash/id625334537"
+          },
+          {
+             "artistName":"Chucklefish Limited",
+             "id":"1406710800",
+             "releaseDate":"2018-10-24",
+             "name":"Stardew Valley",
+             "kind":"iosSoftware",
+             "copyright":"Stardew Valley is developed by ConcernedApe LLC. Mobile version developed by The Secret Police Limited and published by Chucklefish Limited. ©2019 ConcernedApe LLC. All Rights Reserved.",
+             "artistId":"1163786770",
+             "artistUrl":"https://apps.apple.com/ca/developer/chucklefish-limited/id1163786770",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/63/dd/5b/63dd5b03-f71f-eaf6-fbcb-21595b9186ba/AppIcons-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7014",
+                   "name":"Role-Playing",
+                   "url":"https://itunes.apple.com/ca/genre/id7014"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/stardew-valley/id1406710800"
+          },
+          {
+             "artistName":"Savage Interactive Pty Ltd",
+             "id":"916366645",
+             "releaseDate":"2014-12-17",
+             "name":"Procreate Pocket",
+             "kind":"iosSoftware",
+             "copyright":"© Savage Interactive",
+             "artistId":"363433636",
+             "artistUrl":"https://apps.apple.com/ca/developer/savage-interactive-pty-ltd/id363433636",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/6b/b9/df/6bb9df67-cd09-ec2a-0496-f02b56a6c2bd/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"6007",
+                   "name":"Productivity",
+                   "url":"https://itunes.apple.com/ca/genre/id6007"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/procreate-pocket/id916366645"
+          },
+          {
+             "artistName":"True Axis",
+             "id":"549105915",
+             "releaseDate":"2012-10-18",
+             "name":"True Skate",
+             "kind":"iosSoftware",
+             "copyright":"Copyright © True Axis Pty Ltd 2012-2015",
+             "artistId":"337866373",
+             "artistUrl":"https://apps.apple.com/ca/developer/true-axis/id337866373",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/a8/d5/e5/a8d5e526-0757-b380-60a6-df072f495ae5/AppIcon-0-1x_U007emarketing-0-85-220-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7016",
+                   "name":"Sports",
+                   "url":"https://itunes.apple.com/ca/genre/id7016"
+                },
+                {
+                   "genreId":"7001",
+                   "name":"Action",
+                   "url":"https://itunes.apple.com/ca/genre/id7001"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/true-skate/id549105915"
+          },
+          {
+             "artistName":"Lightricks Ltd.",
+             "id":"606310581",
+             "releaseDate":"2013-03-07",
+             "name":"Facetune",
+             "kind":"iosSoftware",
+             "copyright":"© 2016 Lightricks Ltd.",
+             "artistId":"606310584",
+             "artistUrl":"https://apps.apple.com/ca/developer/lightricks-ltd/id606310584",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/3e/70/ed/3e70edf5-d409-7fcb-2470-dfb2cfe304a0/AppIcon-1x_U007emarketing-85-220-2.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6008",
+                   "name":"Photo \u0026 Video",
+                   "url":"https://itunes.apple.com/ca/genre/id6008"
+                },
+                {
+                   "genreId":"6012",
+                   "name":"Lifestyle",
+                   "url":"https://itunes.apple.com/ca/genre/id6012"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/facetune/id606310581"
+          },
+          {
+             "artistName":"505 Games (US), Inc.",
+             "id":"640364616",
+             "releaseDate":"2013-08-29",
+             "name":"Terraria",
+             "kind":"iosSoftware",
+             "copyright":"Terraria ©2015 Re-Logic. All Rights Reserved. Published by 505 Games. 505 Games and the 505Games logo are registered trademarks of 505 Games S.r.l. Developed by Codeglue Software. All rights reserved.",
+             "artistId":"392990484",
+             "artistUrl":"https://apps.apple.com/ca/developer/505-games-us-inc/id392990484",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple60/v4/fd/22/fd/fd22fdbd-4c34-f495-2d4f-62689635f4aa/mzl.buzljamm.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7002",
+                   "name":"Adventure",
+                   "url":"https://itunes.apple.com/ca/genre/id7002"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/terraria/id640364616"
+          },
+          {
+             "artistName":"Marmalade Game Studio",
+             "id":"1117405948",
+             "releaseDate":"2016-07-14",
+             "name":"The Game of Life",
+             "kind":"iosSoftware",
+             "copyright":"The Game of Life is a trademark of Hasbro. ©2016 Hasbro. All Rights Reserved.",
+             "artistId":"988365603",
+             "artistUrl":"https://apps.apple.com/ca/developer/marmalade-game-studio/id988365603",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/a9/26/77/a9267700-c72f-df17-27f0-96987956068d/AppIcon-1x_U007emarketing-85-220-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7004",
+                   "name":"Board",
+                   "url":"https://itunes.apple.com/ca/genre/id7004"
+                },
+                {
+                   "genreId":"7009",
+                   "name":"Family",
+                   "url":"https://itunes.apple.com/ca/genre/id7009"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/the-game-of-life/id1117405948"
+          },
+          {
+             "artistName":"Ninja Kiwi",
+             "id":"563718995",
+             "releaseDate":"2012-11-15",
+             "name":"Bloons TD 5",
+             "kind":"iosSoftware",
+             "copyright":"© 2012 Ninja Kiwi",
+             "artistId":"386241773",
+             "artistUrl":"https://apps.apple.com/ca/developer/ninja-kiwi/id386241773",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/c0/9d/0c/c09d0cbb-ebf2-874b-ef37-bf1414758800/AppIcon-0-1x_U007emarketing-0-85-220-0-3.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7001",
+                   "name":"Action",
+                   "url":"https://itunes.apple.com/ca/genre/id7001"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/bloons-td-5/id563718995"
+          },
+          {
+             "artistName":"Ninja Kiwi",
+             "id":"1118115766",
+             "releaseDate":"2018-06-14",
+             "name":"Bloons TD 6",
+             "kind":"iosSoftware",
+             "copyright":"© 2018 Ninja Kiwi Limited",
+             "artistId":"386241773",
+             "artistUrl":"https://apps.apple.com/ca/developer/ninja-kiwi/id386241773",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/17/86/c5/1786c517-2c61-4987-4958-ba190eba91b5/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                },
+                {
+                   "genreId":"7001",
+                   "name":"Action",
+                   "url":"https://itunes.apple.com/ca/genre/id7001"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/bloons-td-6/id1118115766"
+          },
+          {
+             "artistName":"Scott Cawthon",
+             "id":"912536422",
+             "releaseDate":"2014-09-11",
+             "name":"Five Nights at Freddy's",
+             "kind":"iosSoftware",
+             "copyright":"© 2014 Scott Cawthon",
+             "artistId":"777236428",
+             "artistUrl":"https://apps.apple.com/ca/developer/scott-cawthon/id777236428",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple117/v4/10/1c/b4/101cb433-a647-f84a-e5db-a2c989168b34/mzl.pqckoovl.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                },
+                {
+                   "genreId":"7001",
+                   "name":"Action",
+                   "url":"https://itunes.apple.com/ca/genre/id7001"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/five-nights-at-freddys/id912536422"
+          },
+          {
+             "artistName":"Flipline Studios",
+             "id":"824305459",
+             "releaseDate":"2014-02-26",
+             "name":"Papa's Freezeria To Go!",
+             "kind":"iosSoftware",
+             "copyright":"© 2014-2019 Flipline IDS LLC",
+             "artistId":"514634238",
+             "artistUrl":"https://apps.apple.com/ca/developer/flipline-studios/id514634238",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/44/d1/bb/44d1bb03-8871-ff83-c212-5c55b0f335a6/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/papas-freezeria-to-go/id824305459"
+          },
+          {
+             "artistName":"Adva-Soft",
+             "id":"373311252",
+             "releaseDate":"2010-06-08",
+             "name":"TouchRetouch",
+             "kind":"iosSoftware",
+             "copyright":"© ADVA Soft",
+             "artistId":"373311255",
+             "artistUrl":"https://apps.apple.com/ca/developer/adva-soft/id373311255",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/1e/25/a7/1e25a7e3-d59b-0769-ca2b-8d02f7c895d1/AppIcon-0-1x_U007emarketing-0-0-85-220-0-10.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6008",
+                   "name":"Photo \u0026 Video",
+                   "url":"https://itunes.apple.com/ca/genre/id6008"
+                },
+                {
+                   "genreId":"6002",
+                   "name":"Utilities",
+                   "url":"https://itunes.apple.com/ca/genre/id6002"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/touchretouch/id373311252"
+          },
+          {
+             "artistName":"Not Doppler",
+             "id":"891194610",
+             "releaseDate":"2014-11-20",
+             "name":"Earn to Die 2",
+             "kind":"iosSoftware",
+             "copyright":"© 2014-2016 Toffee Games \u0026 Not Doppler Pty Limited",
+             "artistId":"554937502",
+             "artistUrl":"https://apps.apple.com/ca/developer/not-doppler/id554937502",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/df/b6/a9/dfb6a904-b4a9-ec3d-74f0-ae3c7c7abbf2/mzl.zejavnfd.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7013",
+                   "name":"Racing",
+                   "url":"https://itunes.apple.com/ca/genre/id7013"
+                },
+                {
+                   "genreId":"7001",
+                   "name":"Action",
+                   "url":"https://itunes.apple.com/ca/genre/id7001"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/earn-to-die-2/id891194610"
+          },
+          {
+             "artistName":"Flipline Studios",
+             "id":"1462324486",
+             "releaseDate":"2019-06-07",
+             "name":"Papa's Donuteria To Go!",
+             "kind":"iosSoftware",
+             "copyright":"© 2019 Flipline IDS LLC",
+             "artistId":"514634238",
+             "artistUrl":"https://apps.apple.com/ca/developer/flipline-studios/id514634238",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/3d/a1/503da1bd-d257-f664-44e5-29f0477358c5/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/papas-donuteria-to-go/id1462324486"
+          },
+          {
+             "artistName":"Snowman",
+             "id":"1182456409",
+             "releaseDate":"2018-02-21",
+             "name":"Alto's Odyssey",
+             "kind":"iosSoftware",
+             "copyright":"© Team Alto",
+             "artistId":"524873456",
+             "artistUrl":"https://apps.apple.com/ca/developer/snowman/id524873456",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/db/3f/0d/db3f0d97-e10e-6044-fa74-d748b71b7268/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7001",
+                   "name":"Action",
+                   "url":"https://itunes.apple.com/ca/genre/id7001"
+                },
+                {
+                   "genreId":"7016",
+                   "name":"Sports",
+                   "url":"https://itunes.apple.com/ca/genre/id7016"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/altos-odyssey/id1182456409"
+          },
+          {
+             "artistName":"2K",
+             "id":"1412321065",
+             "releaseDate":"2018-09-26",
+             "name":"NBA 2K19",
+             "kind":"iosSoftware",
+             "copyright":"© Published by 2K. 2K is a publishing label of Take-Two Interactive Software, Inc. All trademarks are the property of their respective owners.",
+             "artistId":"324563547",
+             "artistUrl":"https://apps.apple.com/ca/developer/2k/id324563547",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/ec/53/03/ec53034d-bf15-5bf6-5652-d02ea5b62055/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7001",
+                   "name":"Action",
+                   "url":"https://itunes.apple.com/ca/genre/id7001"
+                },
+                {
+                   "genreId":"6004",
+                   "name":"Sports",
+                   "url":"https://itunes.apple.com/ca/genre/id6004"
+                },
+                {
+                   "genreId":"7016",
+                   "name":"Sports",
+                   "url":"https://itunes.apple.com/ca/genre/id7016"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/nba-2k19/id1412321065"
+          },
+          {
+             "artistName":"Infinite Dreams Inc.",
+             "id":"380090605",
+             "releaseDate":"2010-07-16",
+             "name":"Let's create! Pottery HD",
+             "kind":"iosSoftware",
+             "copyright":"© Infinite Dreams 2010-2018",
+             "artistId":"306712040",
+             "artistUrl":"https://apps.apple.com/ca/developer/infinite-dreams-inc/id306712040",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/3f/c9/1d/3fc91df5-1758-4304-d159-158221907a92/AppIcon-0-1x_U007emarketing-0-85-220-9.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7009",
+                   "name":"Family",
+                   "url":"https://itunes.apple.com/ca/genre/id7009"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/lets-create-pottery-hd/id380090605"
+          },
+          {
+             "artistName":"Ironhide S.A.",
+             "id":"1248033433",
+             "releaseDate":"2018-11-22",
+             "name":"Kingdom Rush Vengeance",
+             "kind":"iosSoftware",
+             "copyright":"© @ironhide",
+             "artistId":"558612918",
+             "artistUrl":"https://apps.apple.com/ca/developer/ironhide-s-a/id558612918",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/0c/71/93/0c71933e-2c32-fa4c-c711-cc759e527eaf/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7001",
+                   "name":"Action",
+                   "url":"https://itunes.apple.com/ca/genre/id7001"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/kingdom-rush-vengeance/id1248033433"
+          },
+          {
+             "artistName":"Scott Cawthon",
+             "id":"941143328",
+             "releaseDate":"2014-11-20",
+             "name":"Five Nights at Freddy's 2",
+             "kind":"iosSoftware",
+             "copyright":"© 2014 Scott Cawthon",
+             "artistId":"777236428",
+             "artistUrl":"https://apps.apple.com/ca/developer/scott-cawthon/id777236428",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple127/v4/04/84/ef/0484ef0a-39e4-9022-207e-128a52c9d848/mzl.fasnhplc.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/five-nights-at-freddys-2/id941143328"
+          },
+          {
+             "artistName":"Afterlight Collective, Inc",
+             "id":"1293122457",
+             "releaseDate":"2017-11-02",
+             "name":"Afterlight 2",
+             "kind":"iosSoftware",
+             "copyright":"© Afterlight Collective, Inc.",
+             "artistId":"573116093",
+             "artistUrl":"https://apps.apple.com/ca/developer/afterlight-collective-inc/id573116093",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/8e/e5/b2/8ee5b287-dac4-a42e-0b2b-789448d8b206/AppIcon-0-1x_U007emarketing-0-0-85-220-0-4.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6008",
+                   "name":"Photo \u0026 Video",
+                   "url":"https://itunes.apple.com/ca/genre/id6008"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/afterlight-2/id1293122457"
+          },
+          {
+             "artistName":"Team17 Software Ltd",
+             "id":"1356167732",
+             "releaseDate":"2019-01-31",
+             "name":"Escapists 2: Pocket Breakout",
+             "kind":"iosSoftware",
+             "copyright":"The Escapists 2: Pocket Breakout developed by Mouldy Toof Studios and Team17 Digital Ltd © 2019. Published by Team17 Digital Ltd.",
+             "artistId":"321369234",
+             "artistUrl":"https://apps.apple.com/ca/developer/team17-software-ltd/id321369234",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/c2/65/5c/c2655ca6-e79d-e5f5-b6b4-7cdd4d5304e7/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/escapists-2-pocket-breakout/id1356167732"
+          },
+          {
+             "artistName":"Ndemic Creations",
+             "id":"1439187947",
+             "releaseDate":"2018-12-05",
+             "name":"Rebel Inc.",
+             "kind":"iosSoftware",
+             "copyright":"© 2018 Ndemic Creations LTD",
+             "artistId":"525818842",
+             "artistUrl":"https://apps.apple.com/ca/developer/ndemic-creations/id525818842",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/39/1a/cc/391acc44-09b9-98e7-9eea-c1efaa822970/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/rebel-inc/id1439187947"
+          },
+          {
+             "artistName":"GIANTS Software GmbH",
+             "id":"1091224574",
+             "releaseDate":"2017-06-06",
+             "name":"Farming Simulator 18",
+             "kind":"iosSoftware",
+             "copyright":"© 2018 GIANTS Software GmbH",
+             "artistId":"502494443",
+             "artistUrl":"https://apps.apple.com/ca/developer/giants-software-gmbh/id502494443",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/a0/ff/c9/a0ffc970-c8bb-016c-9c46-d37b169fa4df/AppIcon-1x_U007emarketing-85-220-0-9.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7009",
+                   "name":"Family",
+                   "url":"https://itunes.apple.com/ca/genre/id7009"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/farming-simulator-18/id1091224574"
+          },
+          {
+             "artistName":"NEXVIO INC.",
+             "id":"406541444",
+             "releaseDate":"2010-12-23",
+             "name":"8mm Vintage Camera",
+             "kind":"iosSoftware",
+             "copyright":"© Nexvio Inc.",
+             "artistId":"305703973",
+             "artistUrl":"https://apps.apple.com/ca/developer/nexvio-inc/id305703973",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/2f/17/7b/2f177bdd-d3d6-ee5f-6195-ac83f2fffbcd/AppIcon-0-1x_U007emarketing-0-0-85-220-4.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6008",
+                   "name":"Photo \u0026 Video",
+                   "url":"https://itunes.apple.com/ca/genre/id6008"
+                },
+                {
+                   "genreId":"6012",
+                   "name":"Lifestyle",
+                   "url":"https://itunes.apple.com/ca/genre/id6012"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/8mm-vintage-camera/id406541444"
+          },
+          {
+             "artistName":"KO_OP",
+             "id":"1256675328",
+             "releaseDate":"2017-11-28",
+             "name":"GNOG",
+             "kind":"iosSoftware",
+             "copyright":"© 2017 KO-OP MODE INC.",
+             "artistId":"1188810807",
+             "artistUrl":"https://apps.apple.com/ca/developer/ko-op/id1188810807",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1c/be/be/1cbebe63-9519-783b-d633-483f7aca0de0/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7012",
+                   "name":"Puzzle",
+                   "url":"https://itunes.apple.com/ca/genre/id7012"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/gnog/id1256675328"
+          },
+          {
+             "artistName":"Scott Cawthon",
+             "id":"1023146677",
+             "releaseDate":"2015-08-03",
+             "name":"Five Nights at Freddys 4",
+             "kind":"iosSoftware",
+             "copyright":"© 2015 Scott Cawthon",
+             "artistId":"777236428",
+             "artistUrl":"https://apps.apple.com/ca/developer/scott-cawthon/id777236428",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/9a/be/b5/9abeb58d-a54d-666b-3dab-0c0699fc7b64/pr_source.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7001",
+                   "name":"Action",
+                   "url":"https://itunes.apple.com/ca/genre/id7001"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/five-nights-at-freddys-4/id1023146677"
+          },
+          {
+             "artistName":"Toca Boca AB",
+             "id":"1119482395",
+             "releaseDate":"2016-12-07",
+             "name":"Toca Hair Salon 3",
+             "kind":"iosSoftware",
+             "copyright":"© Toca Boca AB",
+             "artistId":"419103351",
+             "artistUrl":"https://apps.apple.com/ca/developer/toca-boca-ab/id419103351",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/dc/76/86/dc76864a-dbc3-33cc-c36f-fc0c2bbdac11/AppIcon-0-1x_U007emarketing-0-85-220-0-9.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6017",
+                   "name":"Education",
+                   "url":"https://itunes.apple.com/ca/genre/id6017"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/toca-hair-salon-3/id1119482395"
+          },
+          {
+             "artistName":"SEEKRTECH CO., LTD.",
+             "id":"866450515",
+             "releaseDate":"2014-05-10",
+             "name":"Forest - Stay focused",
+             "kind":"iosSoftware",
+             "copyright":"© SeekrTech CO., LTD",
+             "artistId":"469475888",
+             "artistUrl":"https://apps.apple.com/ca/developer/seekrtech-co-ltd/id469475888",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/0b/c6/ec/0bc6ec14-2b62-0471-8b1e-f871fecf9d1e/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6007",
+                   "name":"Productivity",
+                   "url":"https://itunes.apple.com/ca/genre/id6007"
+                },
+                {
+                   "genreId":"6012",
+                   "name":"Lifestyle",
+                   "url":"https://itunes.apple.com/ca/genre/id6012"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/forest-stay-focused/id866450515"
+          },
+          {
+             "artistName":"Flipline Studios",
+             "id":"1438245901",
+             "releaseDate":"2018-10-29",
+             "name":"Papa's Pancakeria To Go!",
+             "kind":"iosSoftware",
+             "copyright":"© 2018-2019 Flipline IDS LLC",
+             "artistId":"514634238",
+             "artistUrl":"https://apps.apple.com/ca/developer/flipline-studios/id514634238",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/0d/74/a0/0d74a096-d5f8-e48d-0e2e-bd6f83e50d95/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/papas-pancakeria-to-go/id1438245901"
+          },
+          {
+             "artistName":"MarineTraffic.com",
+             "id":"563910324",
+             "releaseDate":"2012-10-08",
+             "name":"MarineTraffic - Ship Tracking",
+             "kind":"iosSoftware",
+             "copyright":"© MarineTraffic",
+             "artistId":"563910327",
+             "artistUrl":"https://apps.apple.com/ca/developer/marinetraffic-com/id563910327",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/f0/eb/aa/f0ebaa1a-01ec-be38-16d0-21cc5210411b/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6003",
+                   "name":"Travel",
+                   "url":"https://itunes.apple.com/ca/genre/id6003"
+                },
+                {
+                   "genreId":"6010",
+                   "name":"Navigation",
+                   "url":"https://itunes.apple.com/ca/genre/id6010"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/marinetraffic-ship-tracking/id563910324"
+          },
+          {
+             "artistName":"Tantsissa",
+             "id":"1164801111",
+             "releaseDate":"2016-12-20",
+             "name":"AutoSleep Tracker for Watch",
+             "kind":"iosSoftware",
+             "copyright":"© Tantsissa Holdings Pty Ltd 2018",
+             "artistId":"861650887",
+             "artistUrl":"https://apps.apple.com/ca/developer/tantsissa/id861650887",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/8c/7c/4a8c7cb8-f435-48fe-375b-3db85ce4ad05/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-2.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6013",
+                   "name":"Health \u0026 Fitness",
+                   "url":"https://itunes.apple.com/ca/genre/id6013"
+                },
+                {
+                   "genreId":"6020",
+                   "name":"Medical",
+                   "url":"https://itunes.apple.com/ca/genre/id6020"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/autosleep-tracker-for-watch/id1164801111"
+          },
+          {
+             "artistName":"Team17 Software Ltd",
+             "id":"1005658093",
+             "releaseDate":"2017-03-02",
+             "name":"The Escapists: Prison Escape",
+             "kind":"iosSoftware",
+             "copyright":"© Team17 Digital Ltd",
+             "artistId":"321369234",
+             "artistUrl":"https://apps.apple.com/ca/developer/team17-software-ltd/id321369234",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/95/98/47/95984791-2c19-cc2a-e040-d0f7f4af3227/AppIcon-1x_U007emarketing-85-220-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/the-escapists-prison-escape/id1005658093"
+          },
+          {
+             "artistName":"Playdigious",
+             "id":"946477821",
+             "releaseDate":"2015-02-03",
+             "name":"Evoland",
+             "kind":"iosSoftware",
+             "copyright":"© 2016 Shiro Games",
+             "artistId":"1041387229",
+             "artistUrl":"https://apps.apple.com/ca/developer/playdigious/id1041387229",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/72/06/17/720617ab-f65e-2e21-4bef-3ab5cd906a57/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-3.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7002",
+                   "name":"Adventure",
+                   "url":"https://itunes.apple.com/ca/genre/id7002"
+                },
+                {
+                   "genreId":"7014",
+                   "name":"Role-Playing",
+                   "url":"https://itunes.apple.com/ca/genre/id7014"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/evoland/id946477821"
+          },
+          {
+             "artistName":"Monash University",
+             "id":"586149216",
+             "releaseDate":"2012-12-17",
+             "name":"Monash University FODMAP diet",
+             "kind":"iosSoftware",
+             "copyright":"© 2012 Monash University",
+             "artistId":"427380448",
+             "artistUrl":"https://apps.apple.com/ca/developer/monash-university/id427380448",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/bc/9f/64/bc9f6487-242d-4cb6-5016-15d9915adf17/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.jpeg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6020",
+                   "name":"Medical",
+                   "url":"https://itunes.apple.com/ca/genre/id6020"
+                },
+                {
+                   "genreId":"6013",
+                   "name":"Health \u0026 Fitness",
+                   "url":"https://itunes.apple.com/ca/genre/id6013"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/monash-university-fodmap-diet/id586149216"
+          },
+          {
+             "artistName":"Terminal Eleven LLC",
+             "id":"404990064",
+             "releaseDate":"2010-12-10",
+             "name":"SkyView®",
+             "kind":"iosSoftware",
+             "copyright":"© 2010 Terminal Eleven LLC.",
+             "artistId":"378238417",
+             "artistUrl":"https://apps.apple.com/ca/developer/terminal-eleven-llc/id378238417",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/eb/fc/78/ebfc7816-305a-6cef-cad9-444fd8b76aca/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6017",
+                   "name":"Education",
+                   "url":"https://itunes.apple.com/ca/genre/id6017"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/skyview/id404990064"
+          },
+          {
+             "artistName":"Cocologics",
+             "id":"694647259",
+             "releaseDate":"2013-09-18",
+             "name":"ProCamera.",
+             "kind":"iosSoftware",
+             "copyright":"© cocologics 2019",
+             "artistId":"490969165",
+             "artistUrl":"https://apps.apple.com/ca/developer/cocologics/id490969165",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/d5/6f/a6d56f08-a285-a340-f86c-1870facfa188/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6008",
+                   "name":"Photo \u0026 Video",
+                   "url":"https://itunes.apple.com/ca/genre/id6008"
+                },
+                {
+                   "genreId":"6003",
+                   "name":"Travel",
+                   "url":"https://itunes.apple.com/ca/genre/id6003"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/procamera/id694647259"
+          },
+          {
+             "artistName":"ZigZaGame Inc.",
+             "id":"1263365153",
+             "releaseDate":"2019-03-21",
+             "name":"Evertale",
+             "kind":"iosSoftware",
+             "copyright":"© ZigZaGame Inc.",
+             "artistId":"665001828",
+             "artistUrl":"https://apps.apple.com/ca/developer/zigzagame-inc/id665001828",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ea/a0/d4/eaa0d44d-7d22-3f2c-12d5-1fa2fa3c690a/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                },
+                {
+                   "genreId":"7014",
+                   "name":"Role-Playing",
+                   "url":"https://itunes.apple.com/ca/genre/id7014"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/evertale/id1263365153"
+          },
+          {
+             "artistName":"Flipline Studios",
+             "id":"600626116",
+             "releaseDate":"2013-02-21",
+             "name":"Papa's Burgeria To Go!",
+             "kind":"iosSoftware",
+             "copyright":"© 2013-2019 Flipline IDS LLC",
+             "artistId":"514634238",
+             "artistUrl":"https://apps.apple.com/ca/developer/flipline-studios/id514634238",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/74/6f/8c/746f8c3d-f8d0-ce82-ba77-47bac118aa39/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/papas-burgeria-to-go/id600626116"
+          },
+          {
+             "artistName":"bytes inc.",
+             "id":"955687901",
+             "releaseDate":"2015-02-26",
+             "name":"kirakira+",
+             "kind":"iosSoftware",
+             "copyright":"© 2018 bytes inc.",
+             "artistId":"451040503",
+             "artistUrl":"https://apps.apple.com/ca/developer/bytes-inc/id451040503",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/05/fb/bf/05fbbf63-50b5-a095-0dda-db653cb5543c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6008",
+                   "name":"Photo \u0026 Video",
+                   "url":"https://itunes.apple.com/ca/genre/id6008"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/kirakira/id955687901"
+          },
+          {
+             "artistName":"SEGA",
+             "id":"1437397276",
+             "releaseDate":"2018-11-02",
+             "name":"Football Manager 2019 Mobile",
+             "kind":"iosSoftware",
+             "copyright":"© Sports Interactive Limited 2018",
+             "artistId":"281966698",
+             "artistUrl":"https://apps.apple.com/ca/developer/sega/id281966698",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/32/6a/14/326a145c-3d2a-0dff-1758-8ebaef1ef464/AppIcon-0-1x_U007emarketing-0-85-220-0-10.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                },
+                {
+                   "genreId":"7016",
+                   "name":"Sports",
+                   "url":"https://itunes.apple.com/ca/genre/id7016"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/football-manager-2019-mobile/id1437397276"
+          },
+          {
+             "artistName":"Sarah's Day Pty Limited",
+             "id":"1442742654",
+             "releaseDate":"2019-02-19",
+             "name":"Sezzy Timer",
+             "kind":"iosSoftware",
+             "copyright":"© 2019 Sarah's Day",
+             "artistId":"1237846867",
+             "artistUrl":"https://apps.apple.com/ca/developer/sarahs-day-pty-limited/id1237846867",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/d3/56/19/d3561928-704a-94bf-beb2-5b925bdd89dc/AppIcon-1-0-1x_U007emarketing-0-0-85-220-0-5.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6013",
+                   "name":"Health \u0026 Fitness",
+                   "url":"https://itunes.apple.com/ca/genre/id6013"
+                },
+                {
+                   "genreId":"6012",
+                   "name":"Lifestyle",
+                   "url":"https://itunes.apple.com/ca/genre/id6012"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/sezzy-timer/id1442742654"
+          },
+          {
+             "artistName":"Ironhide S.A.",
+             "id":"1056920931",
+             "releaseDate":"2017-09-13",
+             "name":"Iron Marines",
+             "kind":"iosSoftware",
+             "copyright":"© @ironhide",
+             "artistId":"558612918",
+             "artistUrl":"https://apps.apple.com/ca/developer/ironhide-s-a/id558612918",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/66/70/f2/6670f2d0-14eb-c0d5-3ebf-1cee2c923997/AppIcon-0-1x_U007emarketing-0-85-220-9.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7001",
+                   "name":"Action",
+                   "url":"https://itunes.apple.com/ca/genre/id7001"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/iron-marines/id1056920931"
+          },
+          {
+             "artistName":"Robot Gentleman sp. z o.o.",
+             "id":"1072395467",
+             "releaseDate":"2016-09-22",
+             "name":"60 Seconds! Atomic Adventure",
+             "kind":"iosSoftware",
+             "copyright":"© 2015-2018 Robot Gentleman sp. z o.o.",
+             "artistId":"1072395466",
+             "artistUrl":"https://apps.apple.com/ca/developer/robot-gentleman-sp-z-o-o/id1072395466",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/ea/82/59/ea8259cb-bb98-ba1e-0d6f-641e5b9b21cc/AppIcon-0-1x_U007emarketing-0-85-220-9.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                },
+                {
+                   "genreId":"7002",
+                   "name":"Adventure",
+                   "url":"https://itunes.apple.com/ca/genre/id7002"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/60-seconds-atomic-adventure/id1072395467"
+          },
+          {
+             "artistName":"Electronic Arts",
+             "id":"402370879",
+             "releaseDate":"2011-02-10",
+             "name":"NBA JAM by EA SPORTS™",
+             "kind":"iosSoftware",
+             "copyright":"© 2011 Electronic Arts Inc.  All Rights Reserved.",
+             "artistId":"284800461",
+             "artistUrl":"https://apps.apple.com/ca/developer/electronic-arts/id284800461",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/cd/25/0f/cd250f0b-af6a-5fcf-20af-bda52e72a58d/Icon-0-1x_U007emarketing-0-85-220-5.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7016",
+                   "name":"Sports",
+                   "url":"https://itunes.apple.com/ca/genre/id7016"
+                },
+                {
+                   "genreId":"7003",
+                   "name":"Casual",
+                   "url":"https://itunes.apple.com/ca/genre/id7003"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/nba-jam-by-ea-sports/id402370879"
+          },
+          {
+             "artistName":"astragon Entertainment GmbH",
+             "id":"982235342",
+             "releaseDate":"2016-06-09",
+             "name":"Take Off - The Flight Simulator",
+             "kind":"iosSoftware",
+             "copyright":"© astragon Entertainment GmbH",
+             "artistId":"433152241",
+             "artistUrl":"https://apps.apple.com/ca/developer/astragon-entertainment-gmbh/id433152241",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/98/23/88/982388df-f59e-dfda-f6fa-e9acfe79b38b/mzl.sssuxmnk.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/take-off-the-flight-simulator/id982235342"
+          },
+          {
+             "artistName":"Lima Sky",
+             "id":"307727765",
+             "releaseDate":"2009-03-27",
+             "name":"Doodle Jump",
+             "kind":"iosSoftware",
+             "copyright":"© 2019 Lima Sky, LLC",
+             "artistId":"285874818",
+             "artistUrl":"https://apps.apple.com/ca/developer/lima-sky/id285874818",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/39/86/e7/3986e722-94b5-b1f2-3f09-567658930928/AppIcon-0-1x_U007emarketing-0-85-220-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7001",
+                   "name":"Action",
+                   "url":"https://itunes.apple.com/ca/genre/id7001"
+                },
+                {
+                   "genreId":"7002",
+                   "name":"Adventure",
+                   "url":"https://itunes.apple.com/ca/genre/id7002"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/doodle-jump/id307727765"
+          },
+          {
+             "artistName":"Vito Technology Inc.",
+             "id":"892279069",
+             "releaseDate":"2014-08-21",
+             "name":"Star Walk 2 - Night Sky Map",
+             "kind":"iosSoftware",
+             "copyright":"© Vito Technology, Inc.",
+             "artistId":"289641503",
+             "artistUrl":"https://apps.apple.com/ca/developer/vito-technology-inc/id289641503",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/aa/af/77/aaaf77ab-0a4d-1798-ae5b-167dadf4bfb8/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6017",
+                   "name":"Education",
+                   "url":"https://itunes.apple.com/ca/genre/id6017"
+                },
+                {
+                   "genreId":"6006",
+                   "name":"Reference",
+                   "url":"https://itunes.apple.com/ca/genre/id6006"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/star-walk-2-night-sky-map/id892279069"
+          },
+          {
+             "artistName":"Flipline Studios",
+             "id":"1392608717",
+             "releaseDate":"2018-08-02",
+             "name":"Papa's Scooperia To Go!",
+             "kind":"iosSoftware",
+             "copyright":"© 2018-2019 Flipline IDS LLC",
+             "artistId":"514634238",
+             "artistUrl":"https://apps.apple.com/ca/developer/flipline-studios/id514634238",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ed/e0/6f/ede06fd5-fd4e-963a-d639-92ca492fb096/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/papas-scooperia-to-go/id1392608717"
+          },
+          {
+             "artistName":"MoonBear LTD",
+             "id":"1293681293",
+             "releaseDate":"2017-11-01",
+             "name":"Pocket Build",
+             "kind":"iosSoftware",
+             "copyright":"© MOONBEAR LTD 2018",
+             "artistId":"970568705",
+             "artistUrl":"https://apps.apple.com/ca/developer/moonbear-ltd/id970568705",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/0e/58/01/0e58014b-2a8a-f2d0-7c3d-a7915bfac6a7/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                },
+                {
+                   "genreId":"7002",
+                   "name":"Adventure",
+                   "url":"https://itunes.apple.com/ca/genre/id7002"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/pocket-build/id1293681293"
+          },
+          {
+             "artistName":"ustwo Games Ltd",
+             "id":"728293409",
+             "releaseDate":"2014-04-03",
+             "name":"Monument Valley",
+             "kind":"iosSoftware",
+             "copyright":"© 2014 ustwo Games Ltd",
+             "artistId":"297468910",
+             "artistUrl":"https://apps.apple.com/ca/developer/ustwo-games-ltd/id297468910",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/14/8a/fc/148afc62-d949-0c3b-c7d9-f3206e548ea2/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7012",
+                   "name":"Puzzle",
+                   "url":"https://itunes.apple.com/ca/genre/id7012"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7002",
+                   "name":"Adventure",
+                   "url":"https://itunes.apple.com/ca/genre/id7002"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/monument-valley/id728293409"
+          },
+          {
+             "artistName":"yuan liu",
+             "id":"1180989940",
+             "releaseDate":"2016-12-02",
+             "name":"Pocket Aquarium!",
+             "kind":"iosSoftware",
+             "copyright":"© liuyuan",
+             "artistId":"1180989939",
+             "artistUrl":"https://apps.apple.com/ca/developer/yuan-liu/id1180989939",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/d9/ee/a6/d9eea6de-1d59-5d27-ef4a-9ba6974f0a54/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7011",
+                   "name":"Music",
+                   "url":"https://itunes.apple.com/ca/genre/id7011"
+                },
+                {
+                   "genreId":"6017",
+                   "name":"Education",
+                   "url":"https://itunes.apple.com/ca/genre/id6017"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/pocket-aquarium/id1180989940"
+          },
+          {
+             "artistName":"Not Doppler",
+             "id":"554937499",
+             "releaseDate":"2012-09-20",
+             "name":"Earn to Die",
+             "kind":"iosSoftware",
+             "copyright":"© 2012-2015 Toffee Games \u0026 Not Doppler Pty Limited",
+             "artistId":"554937502",
+             "artistUrl":"https://apps.apple.com/ca/developer/not-doppler/id554937502",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/0f/b3/b0/0fb3b02a-8b71-2854-e478-04b9c5ec66ff/mzl.sdmrqvyg.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7013",
+                   "name":"Racing",
+                   "url":"https://itunes.apple.com/ca/genre/id7013"
+                },
+                {
+                   "genreId":"7001",
+                   "name":"Action",
+                   "url":"https://itunes.apple.com/ca/genre/id7001"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/earn-to-die/id554937499"
+          },
+          {
+             "artistName":"Dung Lan",
+             "id":"1385658648",
+             "releaseDate":"2018-06-09",
+             "name":"KissAnime - Social HD Anime",
+             "kind":"iosSoftware",
+             "copyright":"© 2019 KissAnime",
+             "artistId":"1295573670",
+             "artistUrl":"https://apps.apple.com/ca/developer/dung-lan/id1295573670",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8d/e2/59/8de2591d-ac56-fe18-a034-587c79a173f3/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"6005",
+                   "name":"Social Networking",
+                   "url":"https://itunes.apple.com/ca/genre/id6005"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/kissanime-social-hd-anime/id1385658648"
+          },
+          {
+             "artistName":"Dinosaur Polo Club",
+             "id":"837860959",
+             "releaseDate":"2015-12-25",
+             "name":"Mini Metro",
+             "kind":"iosSoftware",
+             "copyright":"© 2018 Dinosaur Polo Club Limited",
+             "artistId":"1119391227",
+             "artistUrl":"https://apps.apple.com/ca/developer/dinosaur-polo-club/id1119391227",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/4d/a2/e6/4da2e669-a4e7-1b95-5c0c-1d173410309e/AppIcon-0-1x_U007emarketing-0-85-220-9.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/mini-metro/id837860959"
+          },
+          {
+             "artistName":"Electronic Arts",
+             "id":"284815117",
+             "releaseDate":"2008-07-11",
+             "name":"SCRABBLE Premium",
+             "kind":"iosSoftware",
+             "copyright":"© 2017 Electronic Arts Inc. © 2016 Hasbro. All rights reserved.",
+             "artistId":"284800461",
+             "artistUrl":"https://apps.apple.com/ca/developer/electronic-arts/id284800461",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/31/88/78/31887856-e1af-d813-f996-01612bc7aa9f/AppIcon-0-1x_U007emarketing-0-0-85-220-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7004",
+                   "name":"Board",
+                   "url":"https://itunes.apple.com/ca/genre/id7004"
+                },
+                {
+                   "genreId":"7019",
+                   "name":"Word",
+                   "url":"https://itunes.apple.com/ca/genre/id7019"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/scrabble-premium/id284815117"
+          },
+          {
+             "artistName":"Bossa Studios Ltd",
+             "id":"814977594",
+             "releaseDate":"2014-03-13",
+             "name":"Surgeon Simulator",
+             "kind":"iosSoftware",
+             "copyright":"©2013 Bossa Studios Ltd.",
+             "artistId":"595359158",
+             "artistUrl":"https://apps.apple.com/ca/developer/bossa-studios-ltd/id595359158",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/da/2b/4e/da2b4ed2-2af9-afdf-da61-8900dca233ca/mzl.jddifmvd.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                },
+                {
+                   "genreId":"7014",
+                   "name":"Role-Playing",
+                   "url":"https://itunes.apple.com/ca/genre/id7014"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/surgeon-simulator/id814977594"
+          },
+          {
+             "artistName":"tripleQuad Software",
+             "id":"364909484",
+             "releaseDate":"2010-04-03",
+             "name":"GOToronto: GO Transit Sidekick",
+             "kind":"iosSoftware",
+             "copyright":"© 2018 Edward Lam",
+             "artistId":"364909487",
+             "artistUrl":"https://apps.apple.com/ca/developer/triplequad-software/id364909487",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/26/83/4b/26834b22-4f88-c87f-95b3-729fa8011aef/AppIcon-0-1x_U007emarketing-0-0-85-220-4.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6010",
+                   "name":"Navigation",
+                   "url":"https://itunes.apple.com/ca/genre/id6010"
+                },
+                {
+                   "genreId":"6003",
+                   "name":"Travel",
+                   "url":"https://itunes.apple.com/ca/genre/id6003"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/gotoronto-go-transit-sidekick/id364909484"
+          },
+          {
+             "artistName":"HollerSoft",
+             "id":"556737680",
+             "releaseDate":"2012-09-06",
+             "name":"Hunt Buddy BC",
+             "kind":"iosSoftware",
+             "copyright":"© 2019 John Griffith",
+             "artistId":"556737683",
+             "artistUrl":"https://apps.apple.com/ca/developer/hollersoft/id556737683",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/82/b0/5b/82b05b28-1d31-db07-3415-24f5b4aab012/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6006",
+                   "name":"Reference",
+                   "url":"https://itunes.apple.com/ca/genre/id6006"
+                },
+                {
+                   "genreId":"6004",
+                   "name":"Sports",
+                   "url":"https://itunes.apple.com/ca/genre/id6004"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/hunt-buddy-bc/id556737680"
+          },
+          {
+             "artistName":"SQUARE ENIX INC",
+             "id":"731645633",
+             "releaseDate":"2014-04-17",
+             "name":"Hitman GO",
+             "kind":"iosSoftware",
+             "copyright":"Hitman GO © 2014 IO Interactive A/S. Published by Square Enix Ltd. Hitman, Hitman GO, the Hitman logo, Square Enix, \u0026 Square Enix logo are trademarks of the Square Enix Group of Companies.",
+             "artistId":"300186801",
+             "artistUrl":"https://apps.apple.com/ca/developer/square-enix-inc/id300186801",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/90/a3/f3/90a3f3dc-fbfa-8ab4-82d1-cd87764420e0/AppIcon-1x_U007emarketing-0-85-220-0-5.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7012",
+                   "name":"Puzzle",
+                   "url":"https://itunes.apple.com/ca/genre/id7012"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/hitman-go/id731645633"
+          },
+          {
+             "artistName":"Fireproof Games",
+             "id":"667362389",
+             "releaseDate":"2013-12-12",
+             "name":"The Room Two",
+             "kind":"iosSoftware",
+             "copyright":"© Fireproof Studios Ltd",
+             "artistId":"552039499",
+             "artistUrl":"https://apps.apple.com/ca/developer/fireproof-games/id552039499",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/2a/19/dd/2a19dd0f-f01d-262d-d82c-c1cf38084c3f/AppIcon-1x_U007emarketing-0-85-220-0-8.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7012",
+                   "name":"Puzzle",
+                   "url":"https://itunes.apple.com/ca/genre/id7012"
+                },
+                {
+                   "genreId":"7002",
+                   "name":"Adventure",
+                   "url":"https://itunes.apple.com/ca/genre/id7002"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/the-room-two/id667362389"
+          },
+          {
+             "artistName":"2kit consulting",
+             "id":"1463795337",
+             "releaseDate":"2019-05-31",
+             "name":"Screen Mirroring App",
+             "kind":"iosSoftware",
+             "copyright":"© 2kit consulting",
+             "artistId":"477998014",
+             "artistUrl":"https://apps.apple.com/ca/developer/2kit-consulting/id477998014",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/a7/50/59/a7505968-03c7-6630-4b6c-e55654966b44/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6008",
+                   "name":"Photo \u0026 Video",
+                   "url":"https://itunes.apple.com/ca/genre/id6008"
+                },
+                {
+                   "genreId":"6002",
+                   "name":"Utilities",
+                   "url":"https://itunes.apple.com/ca/genre/id6002"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/screen-mirroring-app/id1463795337"
+          },
+          {
+             "artistName":"Readdle Inc.",
+             "id":"333710667",
+             "releaseDate":"2009-10-09",
+             "name":"Scanner Pro",
+             "kind":"iosSoftware",
+             "copyright":"© 2009-2018 Readdle Inc.",
+             "artistId":"285035419",
+             "artistUrl":"https://apps.apple.com/ca/developer/readdle-inc/id285035419",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/3f/da/2c/3fda2c96-e2c9-fa50-d766-136b4c9e9c7e/ScannerPro-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6000",
+                   "name":"Business",
+                   "url":"https://itunes.apple.com/ca/genre/id6000"
+                },
+                {
+                   "genreId":"6007",
+                   "name":"Productivity",
+                   "url":"https://itunes.apple.com/ca/genre/id6007"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/scanner-pro/id333710667"
+          },
+          {
+             "artistName":"Infinite Flight LLC",
+             "id":"471341991",
+             "releaseDate":"2012-03-19",
+             "name":"Infinite Flight",
+             "kind":"iosSoftware",
+             "copyright":"© Infinite Flight LLC",
+             "artistId":"471341994",
+             "artistUrl":"https://apps.apple.com/ca/developer/infinite-flight-llc/id471341994",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/53/47/c3/5347c3af-f5c1-994c-7805-0fc2d25dfcc6/AppIcons-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                },
+                {
+                   "genreId":"7013",
+                   "name":"Racing",
+                   "url":"https://itunes.apple.com/ca/genre/id7013"
+                },
+                {
+                   "genreId":"6004",
+                   "name":"Sports",
+                   "url":"https://itunes.apple.com/ca/genre/id6004"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/infinite-flight/id471341991"
+          },
+          {
+             "artistName":"Threema GmbH",
+             "id":"578665578",
+             "releaseDate":"2012-12-28",
+             "name":"Threema",
+             "kind":"iosSoftware",
+             "copyright":"© 2012-2018 Threema GmbH",
+             "artistId":"535112011",
+             "artistUrl":"https://apps.apple.com/ca/developer/threema-gmbh/id535112011",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/e2/e0/87/e2e08792-47f2-9e58-c122-8d5d0cbcc20b/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6005",
+                   "name":"Social Networking",
+                   "url":"https://itunes.apple.com/ca/genre/id6005"
+                },
+                {
+                   "genreId":"6002",
+                   "name":"Utilities",
+                   "url":"https://itunes.apple.com/ca/genre/id6002"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/threema/id578665578"
+          },
+          {
+             "artistName":"Rarevision",
+             "id":"679454835",
+             "releaseDate":"2015-08-17",
+             "name":"VHS Camcorder - The #1 VHS Cam",
+             "kind":"iosSoftware",
+             "copyright":"© 2013-2019 Rarevision LLC. All Rights Reserved.",
+             "artistId":"464591028",
+             "artistUrl":"https://apps.apple.com/ca/developer/rarevision/id464591028",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/52/4b/1d/524b1d25-c641-5940-bcf8-bfcd2bca38af/AppIcon-0-1x_U007emarketing-0-0-85-220-4.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6008",
+                   "name":"Photo \u0026 Video",
+                   "url":"https://itunes.apple.com/ca/genre/id6008"
+                },
+                {
+                   "genreId":"6005",
+                   "name":"Social Networking",
+                   "url":"https://itunes.apple.com/ca/genre/id6005"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/vhs-camcorder-the-1-vhs-cam/id679454835"
+          },
+          {
+             "artistName":"Production Shed Pty Ltd",
+             "id":"352000376",
+             "releaseDate":"2010-01-25",
+             "name":"Shift Worker",
+             "kind":"iosSoftware",
+             "copyright":"© Production Shed Pty Ltd",
+             "artistId":"317720850",
+             "artistUrl":"https://apps.apple.com/ca/developer/production-shed-pty-ltd/id317720850",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/b8/35/51/b83551b7-32df-5713-fac6-439060faef8f/mzl.exsmhwuz.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6007",
+                   "name":"Productivity",
+                   "url":"https://itunes.apple.com/ca/genre/id6007"
+                },
+                {
+                   "genreId":"6012",
+                   "name":"Lifestyle",
+                   "url":"https://itunes.apple.com/ca/genre/id6012"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/shift-worker/id352000376"
+          },
+          {
+             "artistName":"VIGI Limited",
+             "id":"432791399",
+             "releaseDate":"2011-06-27",
+             "name":"Cloud Baby Monitor",
+             "kind":"iosSoftware",
+             "copyright":"© 2019 VIGI Limited",
+             "artistId":"313755232",
+             "artistUrl":"https://apps.apple.com/ca/developer/vigi-limited/id313755232",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/24/e6/59/24e65919-6307-bc88-5fb2-9b32db130b17/AppIcon-0-1x_U007emarketing-0-0-85-220-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6012",
+                   "name":"Lifestyle",
+                   "url":"https://itunes.apple.com/ca/genre/id6012"
+                },
+                {
+                   "genreId":"6003",
+                   "name":"Travel",
+                   "url":"https://itunes.apple.com/ca/genre/id6003"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/cloud-baby-monitor/id432791399"
+          },
+          {
+             "artistName":"NAVIONICS S.R.L.",
+             "id":"382815123",
+             "releaseDate":"2010-08-30",
+             "name":"Boating US\u0026Canada",
+             "kind":"iosSoftware",
+             "copyright":"Navionics Srl a socio unico © 2017",
+             "artistId":"294013906",
+             "artistUrl":"https://apps.apple.com/ca/developer/navionics-s-r-l/id294013906",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/0b/b9/e8/0bb9e8ae-100a-f69d-64d6-1bcbee4954d3/Marine-Usa_U0026Canada-AppIcon-0-1x_U007emarketing-0-0-85-220-0-9.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6010",
+                   "name":"Navigation",
+                   "url":"https://itunes.apple.com/ca/genre/id6010"
+                },
+                {
+                   "genreId":"6004",
+                   "name":"Sports",
+                   "url":"https://itunes.apple.com/ca/genre/id6004"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/boating-us-canada/id382815123"
+          },
+          {
+             "artistName":"FAYJU",
+             "id":"1357696438",
+             "releaseDate":"2018-12-31",
+             "name":"Amazing Frog?",
+             "kind":"iosSoftware",
+             "copyright":"©Fayju 2018",
+             "artistId":"315771084",
+             "artistUrl":"https://apps.apple.com/ca/developer/fayju/id315771084",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/7b/0d/23/7b0d23f3-7ef0-f657-bef3-5a6240b5a79b/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7002",
+                   "name":"Adventure",
+                   "url":"https://itunes.apple.com/ca/genre/id7002"
+                },
+                {
+                   "genreId":"7001",
+                   "name":"Action",
+                   "url":"https://itunes.apple.com/ca/genre/id7001"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/amazing-frog/id1357696438"
+          },
+          {
+             "artistName":"FiLMiC Inc",
+             "id":"436577167",
+             "releaseDate":"2011-05-15",
+             "name":"FiLMiC Pro－Manual Video Camera",
+             "kind":"iosSoftware",
+             "copyright":"© 2017 FiLMiC Inc.",
+             "artistId":"436577170",
+             "artistUrl":"https://apps.apple.com/ca/developer/filmic-inc/id436577170",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/87/51/22/875122f3-4c0e-1413-f246-29319e571671/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6008",
+                   "name":"Photo \u0026 Video",
+                   "url":"https://itunes.apple.com/ca/genre/id6008"
+                },
+                {
+                   "genreId":"6007",
+                   "name":"Productivity",
+                   "url":"https://itunes.apple.com/ca/genre/id6007"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/filmic-pro-manual-video-camera/id436577167"
+          },
+          {
+             "artistName":"HotSchedules",
+             "id":"294934058",
+             "releaseDate":"2008-10-31",
+             "name":"HotSchedules",
+             "kind":"iosSoftware",
+             "copyright":"© 2008 HotSchedules Inc.",
+             "artistId":"294934061",
+             "artistUrl":"https://apps.apple.com/ca/developer/hotschedules/id294934061",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/80/54/9b/80549bda-34c6-8d69-52a1-3909108c5cd1/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6000",
+                   "name":"Business",
+                   "url":"https://itunes.apple.com/ca/genre/id6000"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/hotschedules/id294934058"
+          },
+          {
+             "artistName":"Scott Cawthon",
+             "id":"973482987",
+             "releaseDate":"2015-03-12",
+             "name":"Five Nights at Freddy's 3",
+             "kind":"iosSoftware",
+             "copyright":"© 2015 Scott Cawthon",
+             "artistId":"777236428",
+             "artistUrl":"https://apps.apple.com/ca/developer/scott-cawthon/id777236428",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/03/07/bb/0307bbdc-117b-f8dd-d0d5-0677ef0f74e0/mzl.hmopxdly.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                },
+                {
+                   "genreId":"7001",
+                   "name":"Action",
+                   "url":"https://itunes.apple.com/ca/genre/id7001"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/five-nights-at-freddys-3/id973482987"
+          },
+          {
+             "artistName":"HappyCow",
+             "id":"435871950",
+             "releaseDate":"2011-05-12",
+             "name":"HappyCow Find Vegan Food",
+             "kind":"iosSoftware",
+             "copyright":"© 2011-2019, HappyCow Inc",
+             "artistId":"879706735",
+             "artistUrl":"https://apps.apple.com/ca/developer/happycow/id879706735",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/a3/2f/38/a32f38ed-8fdf-e48e-029a-a063144b18b2/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6003",
+                   "name":"Travel",
+                   "url":"https://itunes.apple.com/ca/genre/id6003"
+                },
+                {
+                   "genreId":"6023",
+                   "name":"Food \u0026 Drink",
+                   "url":"https://itunes.apple.com/ca/genre/id6023"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/happycow-find-vegan-food/id435871950"
+          },
+          {
+             "artistName":"Crunchy Bagel",
+             "id":"963034692",
+             "releaseDate":"2015-06-01",
+             "name":"Streaks",
+             "kind":"iosSoftware",
+             "copyright":"© 2019 Crunchy Bagel Pty Ltd",
+             "artistId":"1084571682",
+             "artistUrl":"https://apps.apple.com/ca/developer/crunchy-bagel/id1084571682",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2e/c0/76/2ec076a6-6b37-f02a-5267-03f22934ce0b/AppIcon-Unfilled-0-1x_U007emarketing-0-0-85-220-0-4.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6013",
+                   "name":"Health \u0026 Fitness",
+                   "url":"https://itunes.apple.com/ca/genre/id6013"
+                },
+                {
+                   "genreId":"6002",
+                   "name":"Utilities",
+                   "url":"https://itunes.apple.com/ca/genre/id6002"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/streaks/id963034692"
+          },
+          {
+             "artistName":"Annapurna Interactive",
+             "id":"1292099839",
+             "releaseDate":"2018-08-28",
+             "name":"Donut County",
+             "kind":"iosSoftware",
+             "copyright":"© 2018 Labyrinth Mint, LLC. Developed by Ben Esposito. Published by Annapurna Interactive. All rights reserved.",
+             "artistId":"1242610251",
+             "artistUrl":"https://apps.apple.com/ca/developer/annapurna-interactive/id1242610251",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/85/45/ba/8545baa3-06c2-7255-f5bb-44550affb189/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7002",
+                   "name":"Adventure",
+                   "url":"https://itunes.apple.com/ca/genre/id7002"
+                },
+                {
+                   "genreId":"7012",
+                   "name":"Puzzle",
+                   "url":"https://itunes.apple.com/ca/genre/id7012"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/donut-county/id1292099839"
+          },
+          {
+             "artistName":"Allstays LLC",
+             "id":"352818407",
+             "releaseDate":"2010-01-29",
+             "name":"Walmart Overnight Parking",
+             "kind":"iosSoftware",
+             "copyright":"© 2019 AllStays LLC. All rights Reserved",
+             "artistId":"349052634",
+             "artistUrl":"https://apps.apple.com/ca/developer/allstays-llc/id349052634",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/58/32/94/583294f6-728c-7249-7469-938ea2c33ae1/AppIcon-0-1x_U007emarketing-0-0-85-220-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6003",
+                   "name":"Travel",
+                   "url":"https://itunes.apple.com/ca/genre/id6003"
+                },
+                {
+                   "genreId":"6010",
+                   "name":"Navigation",
+                   "url":"https://itunes.apple.com/ca/genre/id6010"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/walmart-overnight-parking/id352818407"
+          },
+          {
+             "artistName":"OGN",
+             "id":"823804745",
+             "releaseDate":"2014-04-04",
+             "name":"Multiplayer Terraria edition",
+             "kind":"iosSoftware",
+             "copyright":"© 2016 OGN",
+             "artistId":"870641832",
+             "artistUrl":"https://apps.apple.com/ca/developer/ogn/id870641832",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/7a/2a/fc/7a2afcc6-b210-eb1a-71d1-e8ba75e9f1cc/mzl.vbrpafcn.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7002",
+                   "name":"Adventure",
+                   "url":"https://itunes.apple.com/ca/genre/id7002"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/multiplayer-terraria-edition/id823804745"
+          },
+          {
+             "artistName":"Atari",
+             "id":"1113736426",
+             "releaseDate":"2016-12-20",
+             "name":"RollerCoaster Tycoon® Classic",
+             "kind":"iosSoftware",
+             "copyright":"© 2017 Atari and the Atari logo are registered trademarks of Atari Interactive, Inc. RollerCoaster Tycoon® Classic © Chris Sawyer 1999-2017. All Rights Reserved.",
+             "artistId":"291286181",
+             "artistUrl":"https://apps.apple.com/ca/developer/atari/id291286181",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/05/f3/c505f3ae-e91c-5c38-2985-9eb62abfa181/AppIcon-1x_U007emarketing-0-85-220-0-9.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/rollercoaster-tycoon-classic/id1113736426"
+          },
+          {
+             "artistName":"9322-5613 Quebec Inc",
+             "id":"506922559",
+             "releaseDate":"2012-06-08",
+             "name":"iQuad",
+             "kind":"iosSoftware",
+             "copyright":"© AppCom",
+             "artistId":"497196359",
+             "artistUrl":"https://apps.apple.com/ca/developer/9322-5613-quebec-inc/id497196359",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/de/d4/68/ded468ef-745d-0afd-b388-0e0ab24f6266/AppIcon-1x_U007emarketing-85-220-4.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6010",
+                   "name":"Navigation",
+                   "url":"https://itunes.apple.com/ca/genre/id6010"
+                },
+                {
+                   "genreId":"6002",
+                   "name":"Utilities",
+                   "url":"https://itunes.apple.com/ca/genre/id6002"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/iquad/id506922559"
+          },
+          {
+             "artistName":"Etermax",
+             "id":"723795263",
+             "releaseDate":"2013-11-06",
+             "name":"Trivia Crack (No Ads)",
+             "kind":"iosSoftware",
+             "copyright":"© Etermax S.A.",
+             "artistId":"286461525",
+             "artistUrl":"https://apps.apple.com/ca/developer/etermax/id286461525",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/11/8a/d2/118ad207-e985-a543-45bb-400ea29e1acf/AppIconPro-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7009",
+                   "name":"Family",
+                   "url":"https://itunes.apple.com/ca/genre/id7009"
+                },
+                {
+                   "genreId":"7018",
+                   "name":"Trivia",
+                   "url":"https://itunes.apple.com/ca/genre/id7018"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/trivia-crack-no-ads/id723795263"
+          },
+          {
+             "artistName":"ustwo Games Ltd",
+             "id":"1321540530",
+             "releaseDate":"2018-01-29",
+             "name":"Monument Valley 1 and 2",
+             "kind":"mobileSoftwareBundle",
+             "copyright":"© 2014 ustwo Games Ltd",
+             "artistId":"297468910",
+             "artistUrl":"https://apps.apple.com/ca/artist/ustwo-games-ltd/297468910",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/31/bb/8f/31bb8f56-b0f6-deea-7c35-63ccbc0916f9/pr_source.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7012",
+                   "name":"Puzzle",
+                   "url":"https://itunes.apple.com/ca/genre/id7012"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7002",
+                   "name":"Adventure",
+                   "url":"https://itunes.apple.com/ca/genre/id7002"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app-bundle/monument-valley-1-and-2/id1321540530"
+          },
+          {
+             "artistName":"Flipline Studios",
+             "id":"1451873044",
+             "releaseDate":"2019-02-23",
+             "name":"Papa's Wingeria To Go!",
+             "kind":"iosSoftware",
+             "copyright":"© 2019 Flipline IDS LLC",
+             "artistId":"514634238",
+             "artistUrl":"https://apps.apple.com/ca/developer/flipline-studios/id514634238",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/a3/a4/86/a3a4865b-461b-6137-ad34-079921f0cee7/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/papas-wingeria-to-go/id1451873044"
+          },
+          {
+             "artistName":"Scott Cawthon",
+             "id":"1189781891",
+             "releaseDate":"2017-01-03",
+             "name":"Five Nights at Freddy's: Sister Location",
+             "kind":"iosSoftware",
+             "copyright":"© 2016 Scott Cawthon",
+             "artistId":"777236428",
+             "artistUrl":"https://apps.apple.com/ca/developer/scott-cawthon/id777236428",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/12/91/59/12915985-ca41-b761-c82b-ae68a2707a7c/pr_source.jpg/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/five-nights-at-freddys-sister-location/id1189781891"
+          },
+          {
+             "artistName":"Frogmind",
+             "id":"1007120869",
+             "releaseDate":"2015-12-17",
+             "name":"BADLAND 2",
+             "kind":"iosSoftware",
+             "copyright":"© Frogmind",
+             "artistId":"535176912",
+             "artistUrl":"https://apps.apple.com/ca/developer/frogmind/id535176912",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/aa/16/f8/aa16f83e-c76b-c56d-8650-fef8756b8c39/AppIcon-1x_U007emarketing-0-85-220-0-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7001",
+                   "name":"Action",
+                   "url":"https://itunes.apple.com/ca/genre/id7001"
+                },
+                {
+                   "genreId":"7002",
+                   "name":"Adventure",
+                   "url":"https://itunes.apple.com/ca/genre/id7002"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/badland-2/id1007120869"
+          },
+          {
+             "artistName":"Klei Entertainment",
+             "id":"1012298403",
+             "releaseDate":"2015-07-09",
+             "name":"Don't Starve: Pocket Edition",
+             "kind":"iosSoftware",
+             "copyright":"©Don't Starve ©Klei Entertainment Inc. 2013",
+             "artistId":"534603952",
+             "artistUrl":"https://apps.apple.com/ca/developer/klei-entertainment/id534603952",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/f2/a3/23/f2a32370-bdf4-1c89-5c9b-e70b040f9b15/AppIcon-0-1x_U007emarketing-0-85-220-10.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7002",
+                   "name":"Adventure",
+                   "url":"https://itunes.apple.com/ca/genre/id7002"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/dont-starve-pocket-edition/id1012298403"
+          },
+          {
+             "artistName":"Snowman",
+             "id":"950812012",
+             "releaseDate":"2015-02-19",
+             "name":"Alto's Adventure",
+             "kind":"iosSoftware",
+             "copyright":"© 2015 Built By Snowman, Inc.",
+             "artistId":"524873456",
+             "artistUrl":"https://apps.apple.com/ca/developer/snowman/id524873456",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/b4/6f/92/b46f921a-a331-e327-5bab-5a5b538ea245/AppIcon-0-1x_U007emarketing-0-0-85-220-0-9.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7001",
+                   "name":"Action",
+                   "url":"https://itunes.apple.com/ca/genre/id7001"
+                },
+                {
+                   "genreId":"7016",
+                   "name":"Sports",
+                   "url":"https://itunes.apple.com/ca/genre/id7016"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/altos-adventure/id950812012"
+          },
+          {
+             "artistName":"Aspyr Media, Inc.",
+             "id":"611436052",
+             "releaseDate":"2013-05-30",
+             "name":"Star Wars™: KOTOR",
+             "kind":"iosSoftware",
+             "copyright":"© 2016 Aspyr Media Inc.",
+             "artistId":"296399696",
+             "artistUrl":"https://apps.apple.com/ca/developer/aspyr-media-inc/id296399696",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/4b/1f/ad/4b1fad42-7557-10ec-e277-288e22a3e884/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7014",
+                   "name":"Role-Playing",
+                   "url":"https://itunes.apple.com/ca/genre/id7014"
+                },
+                {
+                   "genreId":"7002",
+                   "name":"Adventure",
+                   "url":"https://itunes.apple.com/ca/genre/id7002"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/star-wars-kotor/id611436052"
+          },
+          {
+             "artistName":"Do Something Good",
+             "id":"1467903179",
+             "releaseDate":"2019-06-21",
+             "name":"Bye Bye Camera",
+             "kind":"iosSoftware",
+             "copyright":"© 2019 Do Something Good LLC, 2019 Metamins LLC",
+             "artistId":"950562311",
+             "artistUrl":"https://apps.apple.com/ca/developer/do-something-good/id950562311",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/c5/ec/8fc5ecdd-b011-f4ab-ab24-255b1b6c3bdf/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6008",
+                   "name":"Photo \u0026 Video",
+                   "url":"https://itunes.apple.com/ca/genre/id6008"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/bye-bye-camera/id1467903179"
+          },
+          {
+             "artistName":"Flipline Studios",
+             "id":"925494667",
+             "releaseDate":"2014-11-13",
+             "name":"Papa's Pizzeria To Go!",
+             "kind":"iosSoftware",
+             "copyright":"© 2014-2019 Flipline IDS LLC",
+             "artistId":"514634238",
+             "artistUrl":"https://apps.apple.com/ca/developer/flipline-studios/id514634238",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/7b/d3/eb/7bd3ebd3-8c21-1e3a-88d1-15508dccb767/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/papas-pizzeria-to-go/id925494667"
+          },
+          {
+             "artistName":"Warner Bros.",
+             "id":"1030902626",
+             "releaseDate":"2015-12-15",
+             "name":"Scribblenauts Unlimited",
+             "kind":"iosSoftware",
+             "copyright":"SCRIBBLENAUTS UNLIMITED software © 2015 Warner Bros. Entertainment Inc. Developed by 5th Cell Media LLC. WB GAMES LOGO:™ \u0026 © WBEI (s15)",
+             "artistId":"298372283",
+             "artistUrl":"https://apps.apple.com/ca/developer/warner-bros/id298372283",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/a5/10/54/a51054de-c58f-26f2-3a4d-dd00648eea70/AppIcon-1x_U007emarketing-85-220-5.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7012",
+                   "name":"Puzzle",
+                   "url":"https://itunes.apple.com/ca/genre/id7012"
+                },
+                {
+                   "genreId":"7002",
+                   "name":"Adventure",
+                   "url":"https://itunes.apple.com/ca/genre/id7002"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/scribblenauts-unlimited/id1030902626"
+          },
+          {
+             "artistName":"Toca Boca AB",
+             "id":"943869618",
+             "releaseDate":"2014-12-18",
+             "name":"Toca Kitchen 2",
+             "kind":"iosSoftware",
+             "copyright":"© Toca Boca",
+             "artistId":"419103351",
+             "artistUrl":"https://apps.apple.com/ca/developer/toca-boca-ab/id419103351",
+             "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/df/91/14/df911420-c3f3-d4b8-50fa-1781f4793c3d/mzl.eqazslnj.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6017",
+                   "name":"Education",
+                   "url":"https://itunes.apple.com/ca/genre/id6017"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/toca-kitchen-2/id943869618"
+          },
+          {
+             "artistName":"Seliant ApS",
+             "id":"958909452",
+             "releaseDate":"2015-01-25",
+             "name":"CFAT Trainer - Test Prep",
+             "kind":"iosSoftware",
+             "copyright":"© 2018 Army-test.com",
+             "artistId":"554676523",
+             "artistUrl":"https://apps.apple.com/ca/developer/seliant-aps/id554676523",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/6f/fe/ee6ffefa-76a0-51aa-b2b7-2f13cb103511/mzl.gidfdebl.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6017",
+                   "name":"Education",
+                   "url":"https://itunes.apple.com/ca/genre/id6017"
+                },
+                {
+                   "genreId":"6000",
+                   "name":"Business",
+                   "url":"https://itunes.apple.com/ca/genre/id6000"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/cfat-trainer-test-prep/id958909452"
+          },
+          {
+             "artistName":"U-Play Online",
+             "id":"1006408029",
+             "releaseDate":"2016-09-22",
+             "name":"Youtubers Life: Gaming Channel",
+             "kind":"iosSoftware",
+             "copyright":"© 2019 U-Play online",
+             "artistId":"436781841",
+             "artistUrl":"https://apps.apple.com/ca/developer/u-play-online/id436781841",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/b4/2d/06/b42d0606-d2e6-caaa-dd82-cf5423f38b64/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-9.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/youtubers-life-gaming-channel/id1006408029"
+          },
+          {
+             "artistName":"USM",
+             "id":"335029050",
+             "releaseDate":"2009-10-25",
+             "name":"Catan Classic",
+             "kind":"iosSoftware",
+             "copyright":"© 2010-2018 United Soft Media Verlag GmbH, Munich; Catan GmbH.",
+             "artistId":"330111789",
+             "artistUrl":"https://apps.apple.com/ca/developer/usm/id330111789",
+             "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/8e/3f/b1/8e3fb193-3bbf-7b2c-3ccb-76c6a9cc1eff/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7004",
+                   "name":"Board",
+                   "url":"https://itunes.apple.com/ca/genre/id7004"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/catan-classic/id335029050"
+          },
+          {
+             "artistName":"Flipline Studios",
+             "id":"1292787392",
+             "releaseDate":"2017-11-20",
+             "name":"Papa's Hot Doggeria To Go!",
+             "kind":"iosSoftware",
+             "copyright":"© 2017-2019 Flipline IDS LLC",
+             "artistId":"514634238",
+             "artistUrl":"https://apps.apple.com/ca/developer/flipline-studios/id514634238",
+             "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/4f/d7/9f/4fd79f82-0bd6-3c35-8927-db46033bd420/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"7017",
+                   "name":"Strategy",
+                   "url":"https://itunes.apple.com/ca/genre/id7017"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/papas-hot-doggeria-to-go/id1292787392"
+          },
+          {
+             "artistName":"This Exit LLC",
+             "id":"347393479",
+             "releaseDate":"2011-04-16",
+             "name":"Roadside America",
+             "kind":"iosSoftware",
+             "copyright":"© 2009-2019 This Exit LLC",
+             "artistId":"329905849",
+             "artistUrl":"https://apps.apple.com/ca/developer/this-exit-llc/id329905849",
+             "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/7a/e9/dc/7ae9dcbf-8d73-025d-8205-3fc29ac55710/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-2.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6003",
+                   "name":"Travel",
+                   "url":"https://itunes.apple.com/ca/genre/id6003"
+                },
+                {
+                   "genreId":"6010",
+                   "name":"Navigation",
+                   "url":"https://itunes.apple.com/ca/genre/id6010"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/roadside-america/id347393479"
+          },
+          {
+             "artistName":"Magic Notion",
+             "id":"893194736",
+             "releaseDate":"2014-09-03",
+             "name":"Kitty Powers' Matchmaker",
+             "kind":"iosSoftware",
+             "copyright":"© 2018 Magic Notion Ltd.",
+             "artistId":"893194739",
+             "artistUrl":"https://apps.apple.com/ca/developer/magic-notion/id893194739",
+             "artworkUrl100":"https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/b4/af/01/b4af01b6-4d22-d37f-dd5f-879b0f8b6e86/AppIcon-1x_U007emarketing-0-85-220-0-8.png/200x200bb.png",
+             "genres":[
+                {
+                   "genreId":"6014",
+                   "name":"Games",
+                   "url":"https://itunes.apple.com/ca/genre/id6014"
+                },
+                {
+                   "genreId":"6016",
+                   "name":"Entertainment",
+                   "url":"https://itunes.apple.com/ca/genre/id6016"
+                },
+                {
+                   "genreId":"7003",
+                   "name":"Casual",
+                   "url":"https://itunes.apple.com/ca/genre/id7003"
+                },
+                {
+                   "genreId":"7015",
+                   "name":"Simulation",
+                   "url":"https://itunes.apple.com/ca/genre/id7015"
+                }
+             ],
+             "url":"https://apps.apple.com/ca/app/kitty-powers-matchmaker/id893194736"
+          }
+       ]
+    }
+ }
